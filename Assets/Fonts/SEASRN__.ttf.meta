@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 85c36e02afd1acc45a60b6e96aa76bb0
+timeCreated: 1501458131
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SeasideResortNF
+  fontNames:
+  - SeasideResortNF
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: f66265ff0bca63d458e8e3a5cdd9c892
+timeCreated: 1501447467
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Airship
+    100002: Armature
+    100004: Bone
+    100006: Bone.001
+    100008: Bone.002
+    100010: Bone.003
+    100012: Bone.004
+    100014: Bone.004_end
+    100016: Bone.005
+    100018: Bone.006
+    100020: Bone.007
+    100022: Bone.008
+    100024: Bone.008_end
+    100026: Bone.009
+    100028: Bone.010
+    100030: Bone.011
+    100032: Bone.011_end
+    100034: Bone.012
+    100036: Bone.013
+    100038: Bone.014
+    100040: Bone.014_end
+    100042: Bone.015
+    100044: Bone.016
+    100046: Bone.017
+    100048: Bone.017_end
+    100050: Bone.018
+    100052: Bone.019
+    100054: Bone.020
+    100056: Bone.020_end
+    100058: Bone.021
+    100060: Bone.022
+    100062: Bone.023
+    100064: Bone.023_end
+    100066: Bone.024
+    100068: Bone.025
+    100070: Bone.026
+    100072: Bone.026_end
+    100074: Bone.027
+    100076: Bone.028
+    100078: Bone.029
+    100080: Bone.029_end
+    100082: Camera
+    100084: Chest
+    100086: //RootNode
+    100088: Crank
+    100090: CrankBox
+    100092: Cube
+    100094: Gat
+    100096: Lamp
+    100098: Prop
+    100100: PropGearing
+    100102: Squid
+    400000: Airship
+    400002: Armature
+    400004: Bone
+    400006: Bone.001
+    400008: Bone.002
+    400010: Bone.003
+    400012: Bone.004
+    400014: Bone.004_end
+    400016: Bone.005
+    400018: Bone.006
+    400020: Bone.007
+    400022: Bone.008
+    400024: Bone.008_end
+    400026: Bone.009
+    400028: Bone.010
+    400030: Bone.011
+    400032: Bone.011_end
+    400034: Bone.012
+    400036: Bone.013
+    400038: Bone.014
+    400040: Bone.014_end
+    400042: Bone.015
+    400044: Bone.016
+    400046: Bone.017
+    400048: Bone.017_end
+    400050: Bone.018
+    400052: Bone.019
+    400054: Bone.020
+    400056: Bone.020_end
+    400058: Bone.021
+    400060: Bone.022
+    400062: Bone.023
+    400064: Bone.023_end
+    400066: Bone.024
+    400068: Bone.025
+    400070: Bone.026
+    400072: Bone.026_end
+    400074: Bone.027
+    400076: Bone.028
+    400078: Bone.029
+    400080: Bone.029_end
+    400082: Camera
+    400084: Chest
+    400086: //RootNode
+    400088: Crank
+    400090: CrankBox
+    400092: Cube
+    400094: Gat
+    400096: Lamp
+    400098: Prop
+    400100: PropGearing
+    400102: Squid
+    2000000: Camera
+    2300000: Chest
+    2300002: Crank
+    2300004: CrankBox
+    2300006: Cube
+    2300008: Gat
+    2300010: Prop
+    2300012: PropGearing
+    2300014: //RootNode
+    3300000: Chest
+    3300002: Crank
+    3300004: CrankBox
+    3300006: Cube
+    3300008: Gat
+    3300010: Prop
+    3300012: PropGearing
+    3300014: //RootNode
+    4300000: Chest
+    4300002: Cube
+    4300004: Crank
+    4300006: CrankBox
+    4300008: PropGearing
+    4300010: Prop
+    4300012: Gat
+    4300014: Airship
+    4300016: Squid
+    7400000: Armature|Crank
+    7400002: Armature|Idle
+    7400004: Armature|Run
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: Airship
+    13700002: Squid
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

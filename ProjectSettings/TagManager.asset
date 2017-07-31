@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Bird
+  - PlayerBullet
+  - BirdBomber
+  - BirdTight
+  - UpperBounds
+  - HP
+  - TrainingTarget
+  - TrainingTargetShoot
+  - Boss
+  - DockingBay
+  - DeadBird
+  - GameUI
+  - IntroUI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PlayerBullets
+  - Enemy
+  - PlayerShip
+  - UpperBounds
+  - HP
+  - TrainingTarget
+  - DockingBay
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
