@@ -27,7 +27,7 @@ namespace Assets.StateMachines
             //birdTightSpawner = (GameObject)Resources.Load("BirdTightSpawner");
             //birdBomberSpawner = (GameObject)Resources.Load("BirdBomberSpawner");
             //hpSpawner = (GameObject)Resources.Load("HpSpawner");
-            spawnerOffset = new Vector3(90, 5, 0);
+            spawnerOffset = new Vector3(50, 5, 0);
             sd = ShipDriver.Get();
         }
         public void OnEnter()

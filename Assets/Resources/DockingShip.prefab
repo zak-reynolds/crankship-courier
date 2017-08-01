@@ -937,7 +937,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 83d60d9f76e536e4d8458029957ae214, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 3
+  speed: 6
   wobble: 1
   amplitude: 2
   startingVelocity: {x: 0, y: 0, z: 0}

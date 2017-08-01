@@ -204,7 +204,7 @@ MonoBehaviour:
     type: 2}
   rate: 0
   timer: 0
-  burstTimer: 3.5
+  burstTimer: 7
 --- !u!114 &114242019908172030
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -250,7 +250,7 @@ MonoBehaviour:
     type: 2}
   rate: 0
   timer: 0
-  burstTimer: 6
+  burstTimer: 10
 --- !u!135 &135420518177240344
 SphereCollider:
   m_ObjectHideFlags: 1
